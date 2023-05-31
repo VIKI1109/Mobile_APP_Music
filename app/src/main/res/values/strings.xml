@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicPlayer20126376</string>
+    <string name="title_toolbar">MusicPlayer20126376</string>
+    <string name="appearance">Color</string>
+    <string name="stop">STOP</string>
+    <string name="timeText">0:00</string>
+    <string name="songNameText">Song from Another Application</string>
+    <string name="noSong">No Song is Playing</string>
+    <string name="the_music_player_is_open_click_here_to_open_the_app">The Music player is open. Click here to open the app</string>
+    <string name="confirm_to_change_the_theme_color">Confirm The Change of the Theme Color</string>
+    <string name="choose_your_favourite_theme_color">Choose and Click Your Favourite Theme Color</string>
+</resources>

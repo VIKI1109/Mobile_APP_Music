@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDefaultDark">#101010</color>
+    <color name="colorAccent">@android:color/holo_purple</color>
+
+    <color name="black">#000000</color>
+    <color name="lucid_black_color">#AF101010</color>
+    <color name="floral_white">#FFFAF0</color>
+    <color name="lavender">#E6E6FA</color>
+
+</resources>
